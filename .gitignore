@@ -1,0 +1,7 @@
+# Logs
+.vs/
+.vscode/
+bin/
+obj/
+Logs/*
+!Logs/placeholder.txt

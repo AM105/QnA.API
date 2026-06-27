@@ -1,0 +1,2 @@
+This file exists to ensure the Logs directory is created and tracked in git.
+Log files with pattern qna-api-*.txt will be stored in this directory but ignored by git.

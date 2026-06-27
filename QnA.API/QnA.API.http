@@ -1,0 +1,6 @@
+@QnA.API_HostAddress = http://localhost:5125
+
+GET {{QnA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
